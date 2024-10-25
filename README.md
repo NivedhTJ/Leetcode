@@ -7,5 +7,6 @@ This repository contains my solutions to various LeetCode coding problems. I cre
 🛠️ Technologies Used
 
     Java (primarily)
+    C
 
   Happy coding! 🧑‍💻
